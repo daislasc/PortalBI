@@ -5,8 +5,8 @@ from pathlib import Path
 from typing import Dict, List
 import yaml
 
-from ..models import Dashboard, DashboardSection
-from ..config import CONFIG_DIR
+from models import Dashboard, DashboardSection
+from config import CONFIG_DIR
 
 
 class DashboardService:

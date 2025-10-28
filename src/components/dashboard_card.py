@@ -2,7 +2,7 @@
 Componente de tarjeta de dashboard
 """
 import streamlit as st
-from ..models import Dashboard
+from models import Dashboard
 
 
 def render_dashboard_card(dashboard: Dashboard) -> None:
