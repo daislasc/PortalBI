@@ -43,8 +43,8 @@ dashboards:
       url_docu: "https://deacero.atlassian.net/wiki/external/YjE5NWU1ZDYwMjY5NDc4N2E3NjM3YTM1Njc4NjA3NjY"
       color: "#18515F"
     
-    - title: "Salesforce Opportunities"
-      url_dashboard: "https://lookerstudio.google.com/reporting/a107e766-a266-4858-b5a9-ec001cecc17b"
+    - title: "Salesforce Oportunidades"
+      url_dashboard: "https://lookerstudio.google.com/reporting/42859848-32cd-43a0-8db4-4dbaae42c354"
       url_docu: "https://deacero0-my.sharepoint.com/:x:/r/personal/vmazzocco_ingetek_com_mx/Documents/Diccionario%20SAles-BigQuery.xlsx?d=w2e63828ea5664a4ca9f382073081637d&csf=1&web=1&e=94PS8w"
       color: "#18515F"
 
